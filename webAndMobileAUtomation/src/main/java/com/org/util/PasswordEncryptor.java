@@ -27,7 +27,4 @@ public class PasswordEncryptor {
 	//	obj.getEncrypt();
 	//	obj.getDecrypt();			
 	}
-	
-	
-	
 }
